@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinForm_Abstract_Interface", "WinForm_Abstract_Interface\WinForm_Abstract_Interface.csproj", "{CB930056-D77D-498A-9027-AFD783B50219}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CB930056-D77D-498A-9027-AFD783B50219}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CB930056-D77D-498A-9027-AFD783B50219}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CB930056-D77D-498A-9027-AFD783B50219}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CB930056-D77D-498A-9027-AFD783B50219}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2E1C0FC5-4472-49FD-A037-6D10390D5C03}
+	EndGlobalSection
+EndGlobal
